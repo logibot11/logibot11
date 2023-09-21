@@ -1,0 +1,1 @@
+print("Start pracy w Git")
