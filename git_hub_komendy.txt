@@ -1,0 +1,8 @@
+Komendy używane w korzystaniu z git-hub-a
+--------------------------------------------
+
+git add -A  - dodanie pliku ....?
+
+git commit -m"Komentarz do zmiany"
+
+git push -u origin master
