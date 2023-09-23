@@ -6,3 +6,5 @@ git add -A  - dodanie pliku ....?
 git commit -m"Komentarz do zmiany"
 
 git push -u origin master
+
+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
