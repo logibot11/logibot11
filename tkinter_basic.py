@@ -4,7 +4,7 @@
 import tkinter as tk
  
 window = tk.Tk()
-window.title('My Window')
+window.title('Tkinter - ListBox')
  
 window.geometry('500x300')
  
