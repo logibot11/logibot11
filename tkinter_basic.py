@@ -1,0 +1,1 @@
+print("Przykład projektu typu tkinter")
