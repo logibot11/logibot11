@@ -8,3 +8,5 @@ git commit -m"Komentarz do zmiany"
 git push -u origin master
 
 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
+
+git status - sprawdzenie stanu gita
